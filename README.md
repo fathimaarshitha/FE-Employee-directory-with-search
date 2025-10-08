@@ -1,3 +1,2 @@
-# FE-Employee-directory-with-search
 The Employee Directory is a web-based application that displays a list of employees with their basic details such as name, department, and designation. It includes a search feature that allows users to quickly find specific employees, making it easier to manage and access employee information efficiently.
 To design and develop a user-friendly Employee Directory that allows quick search and viewing of employee details such as name, department, and designation, enhancing accessibility and communication within the organization
